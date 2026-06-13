@@ -9,7 +9,7 @@ The first number in the name of the folders is the order in which they should be
 # HOW TO RESTORE A BACKUP
 1: Select the backup you want to restore<br>
 2: Press `CTRL` + `C`, then press `CTRL` + `V`<br>
-3: Rename the folder that has just be created to `SaveGames`<br>
+3: Rename the folder that has just been created to `SaveGames`<br>
 4: Press `WINDOWS KEY` + `R`<br>
 5: Paste `%localappdata%/Stonemachia/Saved` in the window that just opened, then press `ENTER`<br>
 <details><summary style="font-size: 17px; border-radius: 10px; background-color: rgba(0, 0, 0, 0.13); padding: 10px; margin-bottom: 15px">Click here if you want make sure the path you just opened is correct!</summary>
